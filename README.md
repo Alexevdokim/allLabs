@@ -22,4 +22,4 @@
 #### 7. [Файл модели сети.](https://github.com/Alexevdokim/Lab3/blob/main/Lab3/Lab3.pkt)
 #### 8. [Скриншоты локальной сети.](https://github.com/Alexevdokim/Lab3/tree/main/Lab3)
 ## Экзаменационные билет №5
-### Ответ на экзаменационный билет: [Билет №5](https://docs.google.com/document/d/1fsrdIR9EU7WEpb7_9MV4_BorNIlT6wuL/edit?usp=sharing&ouid=106014295578251275676&rtpof=true&sd=true)
+### Ответ на экзаменационный билет: [Билет №5](https://docs.google.com/document/d/1tQI8YJEfzKq2q9f4g8XIFIFBqzuDnwUUaN-Xtv33yGY/edit?usp=sharing)
